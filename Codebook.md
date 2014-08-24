@@ -2,7 +2,7 @@ The Code Book
 
 Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-No other transformations than the ones done in the script have been made to the data. 
+  
 
 The script merges the training and test sets into one single dataset. 
 
